@@ -1,6 +1,4 @@
-
-
-//ALREADY EMBEDDED
+//SWIPER
 
 const testimonialSlider = new Swiper(".swiper.is-testimonials", {
     slidesPerView: "auto",
