@@ -2,7 +2,7 @@
 
 const testimonialSlider = new Swiper(".swiper.is-testimonials", {
     slidesPerView: "auto",
-    keyboard: true,
+    keyboard: false,
     speed: 700,
     spaceBetween: "1rem",
     grabCursor: true,
